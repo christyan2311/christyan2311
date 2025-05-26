@@ -1,15 +1,9 @@
-# 👨‍💻 Christyan Oliveira
+# 👨‍💻 Christyan Roberto 
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor Full Stack`**
 
-Olá! Me chamo Christyan, tenho 19 anos e sou da zona leste de São Paulo. Sou apaixonado por tecnologia e estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas. Tenho experiência com projetos em Front-End, além de estudar Banco de Dados, Lógica de Programação, Ciência de Dados e Inteligência Artificial.
-
-Atualmente, trabalho como Jovem Aprendiz Administrativo, mas meu grande objetivo é conquistar minha primeira vaga na área de tecnologia e, um dia, trabalhar em uma grande empresa como a **Nike**.
-
-Também estou estudando na plataforma **Alura**, com foco nas formações de Front-End, Back-End e Banco de Dados. Estou sempre buscando aprender e aplicar o conhecimento em projetos pessoais.
-
+Olá! Me chamo Christyan, tenho 19 anos e sou da zona leste de São Paulo. Sou apaixonado por tecnologia e estou cursando  Análise e Desenvolvimento de Sistemas. Tenho experiência com projetos em Front-End, além de estudar Banco de Dados, Ciência de Dados e Inteligência Artificial.
 ---
-
 ### 🛠️ Tecnologias que estou aprendendo e utilizando:
 
 <img 
@@ -78,9 +72,11 @@ Também estou estudando na plataforma **Alura**, com foco nas formações de Fro
 
 ### 📫 Como me encontrar
 
-- 📧 christyan.seuemail@gmail.com *(substitua pelo real, se quiser)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione o link quando tiver)*
+- 📧 christyan.seuemail@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/christyan-roberto-53951b266)
 
----
 
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+
+
+
+
