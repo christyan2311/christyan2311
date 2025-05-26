@@ -72,8 +72,8 @@ Olá! Me chamo Christyan, tenho 19 anos e sou da zona leste de São Paulo. Sou a
 
 ### 📫 Como me encontrar
 
-- 📧 christyan.seuemail@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/christyan-roberto-53951b266)
+- 📧 christyanroberto31@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/christyan-roberto-53951b266/)
 
 
 
