@@ -10,9 +10,9 @@
 
   <h1 align="left">Christyan Roberto Silva</h1>
 
-  <a href="https://www.instagram.com/____christyan/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
-  <!-- Adicione aqui seu Twitter se tiver -->
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+  <a href="1 of 2,614
+https://www.instagram.com/____christyan/profilecard/?igsh=MTVtMXJ2aWN2ZmhjOQ==" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+  <a href="www.linkedin.com/in/christyan-roberto-53951b266" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 
 </div>
 
