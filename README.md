@@ -48,12 +48,20 @@ Tenho 19 anos, sou de São Paulo - Zona Leste (São Mateus) e atualmente curso A
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/____christyan/) ou [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI). Estou sempre aberto a conexões, colaborações e boas conversas sobre tecnologia. 😄
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/____christyan/) ou [LinkedIn](https://www.linkedin.com/in/christyan-roberto-53951b266/). Estou sempre aberto a conexões, colaborações e boas conversas sobre tecnologia. 😄
 
 </br>
 
-<a href="https://www.instagram.com/____christyan/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https:https://www.instagram.com/____christyan/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+<a href="https://https://www.linkedin.com/in/christyan-roberto-53951b266/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 
+</br>
+</br>
 
+<p align="center">
+  <a href="https://github.com/christyanroberto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christyan2311&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christyan2311&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
