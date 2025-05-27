@@ -20,7 +20,7 @@
 
 ## Olá, Devs!!
 
-Tenho 19 anos, sou de São Paulo - Zona Leste (São Mateus) e atualmente curso Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado por tecnologia e criatividade, e com o tempo descobri o Front-End como um verdadeiro amor à primeira vista. Estou em transição para me tornar um desenvolvedor Full Stack e cada dia é uma nova chance de aprender algo incrível! 🚀
+Tenho 19 anos, sou de São Paulo - Zona Leste e atualmente curso Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado por tecnologia e criatividade, e me encantei pelo universo do Front-End, onde cada linha de código pode transformar ideias em experiências visuais. Estou em transição, estundado técnologias Band-End, para me tornar um desenvolvedor Full Stack e cada dia é uma nova chance de aprender algo incrível! 🚀
 
 </br>
 
@@ -38,12 +38,11 @@ Tenho 19 anos, sou de São Paulo - Zona Leste (São Mateus) e atualmente curso A
 </br>
 
 <div style="display:inline-block">
-  <p align="left">📚 Estudante de ADS com foco em desenvolvimento web;</p>
+  <p align="left">📚 Estudante de ADS;</p>
   <p align="left">💡 Apaixonado por criar projetos interativos como sites personalizados e experiências digitais criativas;</p>
-  <p align="left">🎯 Em busca de oportunidades como estagiário/júnior para crescer profissionalmente e aplicar tudo que tenho aprendido;</p>
-  <p align="left">🧠 Atualmente estudando pelas plataformas <a href="https://www.alura.com.br/">Alura</a>, <a href="https://www.datacamp.com/">DataCamp</a> e <a href="https://www.khanacademy.org/">Khan Academy</a>;</p>
-  <p align="left">🎁 Criador de projetos especiais como um presente interativo de aniversário para minha namorada, com HTML, CSS e JavaScript;</p>
-  <p align="left">☕ Gosto de café, games e sempre estou ouvindo uma boa playlist enquanto codifico!</p>
+  <p align="left">🎯 Em busca de oportunidades como estagiário, júnior ou trainee para crescer profissionalmente e aplicar tudo que tenho aprendido;</p>
+  <p align="left">🧠 Atualmente estudando pelas plataformas <a href="https://www.alura.com.br/">Alura</a>, <a href="https://www.sp.senac.br/">Senac</a>; 
+  <p align="left">🎧 Sempre estou ouvindo uma boa playlist enquanto codifico!</p>
 </div>
 
 </br>
@@ -51,10 +50,6 @@ Tenho 19 anos, sou de São Paulo - Zona Leste (São Mateus) e atualmente curso A
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/____christyan/) ou [LinkedIn](https://www.linkedin.com/in/christyan-roberto-53951b266/). Estou sempre aberto a conexões, colaborações e boas conversas sobre tecnologia. 😄
 
 </br>
-
-<a href="https:https://www.instagram.com/____christyan/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
-<a href="https://https://www.linkedin.com/in/christyan-roberto-53951b266/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-
 </br>
 </br>
 
