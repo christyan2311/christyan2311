@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Futuro Desenvolvedor Full Stack`**
 
-Olá! Me chamo Christyan, tenho 19 anos e sou da zona leste de São Paulo. Sou apaixonado por tecnologia e estou cursando  Análise e Desenvolvimento de Sistemas. Tenho experiência com projetos em Front-End, além de estudar Banco de Dados, Ciência de Dados e Inteligência Artificial.
+Olá! Me chamo Christyan, tenho 19 anos e sou da zona leste de São Paulo. Sou apaixonado por tecnologia e estou cursando  Análise e Desenvolvimento de Sistemas. Tenho experiência com projetos em Front-End, além de estudar Back-End, Banco de Dados, Ciência de Dados e Inteligência Artificial.
 ---
 ### 🛠️ Tecnologias que estou aprendendo e utilizando:
 
@@ -60,18 +60,7 @@ Olá! Me chamo Christyan, tenho 19 anos e sou da zona leste de São Paulo. Sou a
 
 ---
 
-### 🎯 Objetivos em 2025
-
-- [x] Concluir cursos essenciais na Alura
-- [x] Criar projetos próprios para praticar
-- [ ] Conseguir meu primeiro estágio na área de TI
-- [ ] Trabalhar com desenvolvimento Front-End e Full Stack
-- [ ] Trabalhar em uma empresa como a Nike
-
----
-
 ### 📫 Como me encontrar
-
 - 📧 christyanroberto31@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/christyan-roberto-53951b266/)
 
