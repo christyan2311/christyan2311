@@ -55,7 +55,7 @@ Tenho 19 anos, sou de São Paulo - Zona Leste e atualmente curso Análise e Dese
 
 <p align="center">
   <a href="https://github.com/christyanroberto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christyan2311&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christyan2311&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christyan2311&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
