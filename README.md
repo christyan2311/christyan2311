@@ -1,10 +1,4 @@
-<img align="right" width="220em" src="https://i.ibb.co/vxhqLqN3/5-AA2-A63-C-8952-491-B-8266-B1231-A2-CBC31-removebg-preview.png" alt="5-AA2-A63-C-8952-491-B-8266-B1231-A2-CBC31-removebg-preview" border="0">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 <div style="display:inline-block">
 
