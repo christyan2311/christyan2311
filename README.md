@@ -14,7 +14,7 @@
 
 ## Olá, Devs!!
 
-Tenho 19 anos, sou de São Paulo - Zona Leste e atualmente curso Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado por tecnologia e criatividade, e me encantei pelo universo do Front-End, onde cada linha de código pode transformar ideias em experiências visuais. Estou em transição, estundado técnologias Band-End, para me tornar um desenvolvedor Full Stack e cada dia é uma nova chance de aprender algo incrível! 🚀
+Tenho 19 anos, sou de São Paulo - Zona Leste, sou tecnico em Marketing e atualmente curso Análise e Desenvolvimento de Sistemas. Sempre fui apaixonado por tecnologia e criatividade, e me encantei pelo universo do Front-End, onde cada linha de código pode transformar ideias em experiências visuais. Estou em transição, estundado técnologias Band-End, para me tornar um desenvolvedor Full Stack e cada dia é uma nova chance de aprender algo incrível! 🚀
 
 </br>
 
