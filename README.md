@@ -1,5 +1,3 @@
-
-
 <div style="display:inline-block">
 
   <h1 align="left">Christyan Roberto Silva</h1>
