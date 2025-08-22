@@ -25,7 +25,7 @@ Tenho 19 anos, sou de São Paulo - Zona Leste, sou tecnico em Marketing e atualm
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title="C#"/></code>
 <code><img width="40px" src="https://i.postimg.cc/Jz9F1c8t/React-icon-svg-removebg-preview.png" title="React"/></code>
-<code><img width="40px" src="https://i.postimg.cc/g0HHfvkC/Daco-5460201-removebg-preview.png" title="React"/></code>
+<code><img width="40px" src="https://i.postimg.cc/yY3XVq8X/image-removebg-preview.png" title="Node.js"/></code>
 
 </br>
 </br>
