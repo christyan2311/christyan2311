@@ -98,7 +98,8 @@ Etec (2021 - 2023)
 Move Bus  
 Desde 11/2025
 
-**Jovem Aprendiz Adm**
+**Jovem Aprendiz ADM**
+
 Potenza Engenharia  
 1 ano e 4 meses
 
