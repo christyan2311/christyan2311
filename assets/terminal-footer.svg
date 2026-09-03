@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11111b"/>
+      <stop offset="100%" stop-color="#1e1e2e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect width="820" height="180" rx="12" fill="url(#tbg)"/>
+
+  <!-- Title bar -->
+  <rect width="820" height="36" rx="12" fill="#0a0a0f"/>
+  <rect y="24" width="820" height="12" fill="#0a0a0f"/>
+  <circle cx="22" cy="18" r="7" fill="#ed8796"/>
+  <circle cx="44" cy="18" r="7" fill="#eed49f"/>
+  <circle cx="66" cy="18" r="7" fill="#a6da95"/>
+  <text x="410" y="23" font-family="monospace" font-size="13" fill="#6c7086" text-anchor="middle">christyan@wakanda: ~/portfolio</text>
+
+  <!-- Terminal content -->
+  <text x="24" y="68" font-family="monospace" font-size="13" fill="#a6da95">christyan@wakanda</text><text x="160" y="68" font-family="monospace" font-size="13" fill="#6c7086">:</text><text x="172" y="68" font-family="monospace" font-size="13" fill="#89b4fa">~/portfolio</text><text x="252" y="68" font-family="monospace" font-size="13" fill="#6c7086">$ </text><text x="272" y="68" font-family="monospace" font-size="13" fill="#cdd6f4">cat wakanda.txt</text>
+
+  <text x="24" y="96" font-family="monospace" font-size="13" fill="#C6A664">"A morte nao e o fim. E apenas um novo começo."</text>
+  <text x="24" y="116" font-family="monospace" font-size="13" fill="#6c7086">  -- T'Challa, Wakanda Forever</text>
+
+  <text x="24" y="148" font-family="monospace" font-size="13" fill="#a6da95">christyan@wakanda</text><text x="160" y="148" font-family="monospace" font-size="13" fill="#6c7086">:</text><text x="172" y="148" font-family="monospace" font-size="13" fill="#89b4fa">~/portfolio</text><text x="252" y="148" font-family="monospace" font-size="13" fill="#6c7086">$ </text><rect x="272" y="136" width="2" height="16" fill="#C6A664" opacity="0.8"/>
+
+  <!-- Bottom border accent -->
+  <rect x="0" y="176" width="820" height="4" fill="#C6A664"/>
+</svg>
