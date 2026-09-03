@@ -16,13 +16,11 @@ const developer = {
   idade: 20,
   formacao: "Analise e Desenvolvimento de Sistemas - Senac Santo Amaro (2024-2026)",
   localizacao: "Sao Paulo, Brasil",
-  cargo_atual: "Controlador de CCO - Move Bus (desde 11/2025)",
+  cargo_atual: "Controlador de CCO - Move Bus ",
   stack: ["React", "Node.js", "Next.js", "TypeScript", "Vite"],
   cursos_concluidos: "25+ (Alura, Cisco, SENAI)",
   ingles: "Intermediario",
-  objetivo: "Estagiario / Trainee em Desenvolvimento de Sistemas",
-  mindset: "Vibranium",
-  wakanda: true,
+  objetivo: "Estagiario / Trainee ",
 };
 ```
 
@@ -141,4 +139,4 @@ $ git remote add origin https://github.com/christyan2311
 
 ---
 
-<sub align="center">Isaias 41:13 - Wakanda Forever</sub>
+<sub align="center">Isaias 41:13 </sub>
