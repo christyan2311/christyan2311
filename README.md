@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:6C0BA9,100:00F5FF&height=230&section=header&text=CHRISTYAN%20ROBERTO%20SILVA&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=%3C%20full-stack%20dev%20in%20training%20%2F%3E&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:6C0BA9,100:C6A664&height=230&section=header&text=CHRISTYAN%20ROBERTO%20SILVA&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=%3C%20full-stack%20dev%20in%20training%20%2F%3E&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+initializing+system...;%3E+loading+profile%3A+christyan_roberto_silva;%3E+status%3A+ONLINE;%3E+mode%3A+disciplina.build()+%2F%2F+um+passo+de+cada+vez" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=C6A664&center=true&vCenter=true&width=700&lines=%3E+initializing+system...;%3E+loading+profile%3A+christyan_roberto_silva;%3E+status%3A+ONLINE;%3E+mode%3A+disciplina.build()" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0A0A0F" />
-<img src="https://img.shields.io/badge/LOCATION-S%C3%83O%20PAULO%2C%20BR-6C0BA9?style=for-the-badge&labelColor=0A0A0F" />
-<img src="https://img.shields.io/badge/UPTIME-20%20YEARS-C6A664?style=for-the-badge&labelColor=0A0A0F" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-C6A664?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/LOCATION-S%C3%83O%20PAULO%2C%20BR-6C0BA9?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/UPTIME-20%20YEARS-C6A664?style=for-the-badge&labelColor=0D0D0D" />
 
 </div>
 
@@ -61,18 +61,18 @@ $ echo $STATUS
 <tr>
 <td width="50%">
 <a href="https://github.com/christyan2311/REPO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=christyan2311&repo=REPO_1&bg_color=0A0A0F&title_color=00F5FF&text_color=FFFFFF&icon_color=6C0BA9&border_color=6C0BA9&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=christyan2311&repo=REPO_1&bg_color=0D0D0D&title_color=C6A664&text_color=FFFFFF&icon_color=6C0BA9&border_color=6C0BA9&hide_border=false" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/christyan2311/REPO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=christyan2311&repo=REPO_2&bg_color=0A0A0F&title_color=00F5FF&text_color=FFFFFF&icon_color=6C0BA9&border_color=6C0BA9&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=christyan2311&repo=REPO_2&bg_color=0D0D0D&title_color=C6A664&text_color=FFFFFF&icon_color=6C0BA9&border_color=6C0BA9&hide_border=false" />
 </a>
 </td>
 </tr>
 </table>
 
-<sub align="center">⚠ troque `REPO_1` / `REPO_2` pelos nomes reais dos seus repositórios — me manda a lista que eu já deixo pronto.</sub>
+<sub align="center">⚠ troque `REPO_1` / `REPO_2` pelos nomes reais dos seus repositórios.</sub>
 
 <br>
 
@@ -92,12 +92,12 @@ $ echo $STATUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=christyan2311&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=00F5FF&text_color=FFFFFF&icon_color=6C0BA9&ring_color=6C0BA9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christyan2311&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=00F5FF&text_color=FFFFFF&langs_count=8" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=christyan2311&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6A664&text_color=FFFFFF&icon_color=6C0BA9&ring_color=6C0BA9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christyan2311&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6A664&text_color=FFFFFF&langs_count=8" width="43%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=christyan2311&hide_border=true&background=0A0A0F&ring=00F5FF&fire=6C0BA9&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=christyan2311&hide_border=true&background=0D0D0D&ring=6C0BA9&fire=C6A664&currStreakLabel=C6A664&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=christyan2311&bg_color=0A0A0F&color=00F5FF&line=6C0BA9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=christyan2311&bg_color=0D0D0D&color=C6A664&line=6C0BA9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -119,8 +119,6 @@ $ echo $STATUS
 
 <img src="https://raw.githubusercontent.com/christyan2311/christyan2311/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>⚠ requer um GitHub Action (platane/snk) rodando no repositório — veja `snake.yml` em anexo.</sub>
-
 </div>
 
 <br>
@@ -129,10 +127,10 @@ $ echo $STATUS
 
 <div align="center">
 
-<a href="https://wa.me/5511949970283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=00F5FF" /></a>
-<a href="https://www.linkedin.com/in/christyan-roberto-53951b266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
-<a href="mailto:christyanroberto31@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00F5FF" /></a>
-<a href="https://github.com/christyan2311" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
+<a href="https://wa.me/5511949970283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=C6A664" /></a>
+<a href="https://www.linkedin.com/in/christyan-roberto-53951b266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=C6A664" /></a>
+<a href="mailto:christyanroberto31@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=C6A664" /></a>
+<a href="https://github.com/christyan2311" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=C6A664" /></a>
 
 </div>
 
@@ -140,10 +138,10 @@ $ echo $STATUS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:6C0BA9,100:0A0A0F&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6A664,50:6C0BA9,100:0D0D0D&height=110&section=footer" width="100%"/>
 
 `system.log("um passo de cada vez.")` — Wakanda Forever
 
-<img src="https://komarev.com/ghpvc/?username=christyan2311&label=PROFILE+VIEWS&color=6C0BA9&style=for-the-badge&labelColor=0A0A0F" />
+<img src="https://komarev.com/ghpvc/?username=christyan2311&label=PROFILE+VIEWS&color=6C0BA9&style=for-the-badge&labelColor=0D0D0D" />
 
 </div>
