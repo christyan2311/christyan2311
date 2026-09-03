@@ -99,7 +99,6 @@ Move Bus
 Desde 11/2025
 
 **Jovem Aprendiz ADM**
-
 Potenza Engenharia  
 1 ano e 4 meses
 
